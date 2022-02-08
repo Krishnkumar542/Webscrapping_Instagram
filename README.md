@@ -1,2 +1,2 @@
-# Websrapping
+# Webscrapping
 Scrapping Instagram account
